@@ -8,7 +8,10 @@ This repository contains the various tasks I have completed as part of my intern
 ## Table of Contents
 1. [Task1](#number-guessing-game) -> number-guessing-game
 2. [Task2] -> STUDENT GRADE CALCULATOR
-
+3. [Task3] -> ATM INTERFACE
+4. [Task4] -> QUIZE APPLICATION WITH TIMER
+5. [Task5] -> STUDENT COURSE REGISTRATION SYSTEM
+   
 # Number Guessing Game
  Description
 The Number Guessing Game is a simple yet engaging game where the player has to guess a randomly generated number between 1 and 100. The game provides feedback and scores based on the number of attempts taken to guess the number correctly.
