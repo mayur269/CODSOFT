@@ -6,8 +6,8 @@
 This repository contains the various tasks I have completed as part of my internship with CodSoft. The internship runs from July 15, 2024, to August 15, 2024, and focuses on enhancing my Java programming skills through a series of practical projects.
 
 ## Table of Contents
-1. [Task1](#number-guessing-game)
-2. 
+1. [Task1](#number-guessing-game) -> number-guessing-game
+2. [Task2] -> 
 
 # Number Guessing Game
  Description
