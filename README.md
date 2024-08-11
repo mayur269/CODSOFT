@@ -7,7 +7,7 @@ This repository contains the various tasks I have completed as part of my intern
 
 ## Table of Contents
 1. [Task1](#number-guessing-game) -> number-guessing-game
-2. [Task2] -> 
+2. [Task2] -> STUDENT GRADE CALCULATOR
 
 # Number Guessing Game
  Description
